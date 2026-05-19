@@ -1,6 +1,6 @@
 # Projet_final
 
-# Projet final- Formation Data Analyst - Smart Fuel - Estimation et Optimisation du Prix des Carburants
+# Smart Fuel - Estimation et Optimisation du Prix des Carburants
 
 ## Objectif
 - Analyser : Étudier les prix des carburants en France et comprendre leurs dynamiques de variation
